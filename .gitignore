@@ -3,6 +3,8 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
@@ -35,3 +37,973 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.ai
+*.eps
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/ai.meta
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/ai/Background1920x1080.ai.meta
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/ai/Background2048x1536.ai.meta
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/eps/Clouds.eps.meta
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/eps/Background1920x1080.eps.meta
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/ai/Clouds.ai.meta
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/eps.meta
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.7 )/ai.meta
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.7 )/ai/NewBackground1920x1080.ai.meta
+*.meta
+*.unity
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassJoinHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.9 )/png/2048x1024/backgraound/NewBackgraound 2048x1024 (2).png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/Blink/2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Jump/2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Run/2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Run/1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x/Body.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Jump/1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x/Eye.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/Blink/1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x/Foot.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x/LeftHand&Arm.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x/RightHand&Arm.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x/Body.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x/Eye.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x/Foot.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x/LeftHand&Arm.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x/RightHand&Arm.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Body.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/RightEye.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/RightArm.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/LeftHand.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/LeftFoot.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/LeftEye.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/LeftArm.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/LeftArm.asset
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/Body.asset
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/RightHand.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/RightFoot.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/LeftEye.asset
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/LeftFoot.asset
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/LeftHand.asset
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/RightArm.asset
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/RightEye.asset
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/RightFoot.asset
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/RightHand.asset
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/2x/5-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/2x/4-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/2x/3-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/2x/2-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/2x/1-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/1x/6-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/1x/5-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/1x/4-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/1x/3-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/1x/2-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/1x/1-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/1x/body-1-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sheet/Chest 4096x1024(4x).png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sheet/Chest 2048x512(2x).png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sheet/Chest 1024x256(1x).png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/4x/6-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/4x/5-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/4x/4-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/4x/3-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/4x/2-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/4x/1-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Separate/2x/6-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/2x/body-1-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/1x/head-6-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/1x/head-5-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/1x/head-4-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/1x/head-3-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/1x/head-2-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/1x/head-1-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/1x/body-6-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/1x/body-5-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/1x/body-4-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/1x/body-3-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/1x/body-2-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/4x/body-1-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/2x/head-6-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/2x/head-5-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/2x/head-4-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/2x/head-3-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/2x/head-2-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/2x/head-1-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/2x/body-6-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/2x/body-5-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/2x/body-4-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/2x/body-3-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/2x/body-2-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyInnerPiece-1-ForBody2-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/4x/head-6-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/4x/head-5-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/4x/head-4-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/4x/head-3-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/4x/head-2-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/4x/head-1-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/4x/body-6-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/4x/body-5-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/4x/body-4-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/4x/body-3-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 1/4x/body-2-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/headInnerPiece-2-ForHead5-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/headInnerPiece-1-ForHead4-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyWithoutInnerPiece-6-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyWithoutInnerPiece-5-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyWithoutInnerPiece-4-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyWithoutInnerPiece-3-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyWithoutInnerPiece-2-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyWithoutInnerPiece-1-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyInnerPiece-5-ForBody6-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyInnerPiece-4-ForBody5-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyInnerPiece-3-ForBody4-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/bodyInnerPiece-2-ForBody3-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/bodyInnerPiece-5-ForBody6-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/bodyInnerPiece-4-ForBody5-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/bodyInnerPiece-3-ForBody4-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/bodyInnerPiece-2-ForBody3-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/bodyInnerPiece-1-ForBody2-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/headWithoutInnerPiece-6-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/headWithoutInnerPiece-5-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/headWithoutInnerPiece-4-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/headWithoutInnerPiece-3-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/headWithoutInnerPiece-2-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/headWithoutInnerPiece-1-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/1x/headInnerPiece-3-ForHead6-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/headWithoutInnerPiece-3-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/headWithoutInnerPiece-2-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/headWithoutInnerPiece-1-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/headInnerPiece-3-ForHead6-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/headInnerPiece-2-ForHead5-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/headInnerPiece-1-ForHead4-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/bodyWithoutInnerPiece-6-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/bodyWithoutInnerPiece-5-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/bodyWithoutInnerPiece-4-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/bodyWithoutInnerPiece-3-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/bodyWithoutInnerPiece-2-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/bodyWithoutInnerPiece-1-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/headWithoutInnerPiece-4-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/headWithoutInnerPiece-5-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/2x/headWithoutInnerPiece-6-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/bodyInnerPiece-1-ForBody2-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/bodyInnerPiece-2-ForBody3-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/bodyInnerPiece-3-ForBody4-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/bodyInnerPiece-4-ForBody5-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/bodyInnerPiece-5-ForBody6-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/bodyWithoutInnerPiece-1-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/bodyWithoutInnerPiece-2-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/bodyWithoutInnerPiece-3-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/bodyWithoutInnerPiece-4-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/1x/1-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/headWithoutInnerPiece-6-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/headWithoutInnerPiece-5-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/headWithoutInnerPiece-4-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/headWithoutInnerPiece-3-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/headWithoutInnerPiece-2-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/headWithoutInnerPiece-1-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/headInnerPiece-3-ForHead6-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/headInnerPiece-2-ForHead5-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/headInnerPiece-1-ForHead4-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/bodyWithoutInnerPiece-6-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/Chest/png/Sliced/Sliced 2/4x/bodyWithoutInnerPiece-5-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/2x/4-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/2x/3-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/2x/2-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/2x/1-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/1x/9-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/1x/8-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/1x/7-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/1x/6-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/1x/5-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/1x/4-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/1x/3-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/1x/2-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/4x/7-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/4x/6-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/4x/5-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/4x/4-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/4x/3-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/4x/2-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/4x/1-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/2x/9-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/2x/8-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/2x/7-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/2x/6-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/2x/5-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/2x/model-2-1-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/1x/model-2-9-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/1x/model-2-8-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/1x/model-2-7-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/1x/model-2-6-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/1x/model-2-5-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/1x/model-2-4-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/1x/model-2-3-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/1x/model-2-2-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/1x/model-2-1-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/4x/9-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-1/4x/8-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/2x/model-2-2-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/2x/model-2-3-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/2x/model-2-4-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/2x/model-2-5-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/2x/model-2-6-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/2x/model-2-7-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/2x/model-2-8-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/2x/model-2-9-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/4x/model-2-1-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/4x/model-2-2-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/4x/model-2-3-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/4x/model-2-4-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/head-3-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/head-2-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/head-1-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/bodyInnerPiece-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/body-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sheets/Chest Sheet-4096x1024(2x).png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sheets/Chest Sheet-2048x512(1x).png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/4x/model-2-9-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/4x/model-2-8-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/4x/model-2-7-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/4x/model-2-6-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Separate/Model-2/4x/model-2-5-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/body-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/headInnerPiece-5-ForHead-9-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/headInnerPiece-4-ForHead-8-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/headInnerPiece-3-ForHead-7-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/headInnerPiece-2-ForHead-6-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/headInnerPiece-1-ForHead-5-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/head-9-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/head-8-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/head-7-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/head-6-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/head-5-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/1x/head-4-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/headInnerPiece-2-ForHead-6-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/headInnerPiece-1-ForHead-5-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/head-9-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/head-8-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/head-7-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/head-6-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/head-5-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/head-4-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/head-3-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/head-2-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/head-1-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/bodyInnerPiece-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/head-7-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/head-6-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/head-5-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/head-4-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/head-3-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/head-2-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/head-1-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/bodyInnerPiece-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/body-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/headInnerPiece-5-ForHead-9-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/headInnerPiece-4-ForHead-8-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/2x/headInnerPiece-3-ForHead-7-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-Head-3-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-Head-2-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-Head-1-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-bodyInnerPiece-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-body-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/headInnerPiece-5-ForHead-9-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/headInnerPiece-4-ForHead-8-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/headInnerPiece-3-ForHead-7-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/headInnerPiece-2-ForHead-6-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/headInnerPiece-1-ForHead-5-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/head-9-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-1/4x/head-8-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-body-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-headInnerPiece-5-ForHead-9-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-headInnerPiece-4-ForHead-8-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-headInnerPiece-3-ForHead-7-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-headInnerPiece-2-ForHead-6-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-headInnerPiece-1-ForHead-5-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-Head-9-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-Head-8-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-Head-7-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-Head-6-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-Head-5-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/1x/Model2-Head-4-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-headInnerPiece-2-ForHead-6-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-headInnerPiece-1-ForHead-5-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-Head-9-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-Head-8-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-Head-7-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-Head-6-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-Head-5-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-Head-4-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-Head-3-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-Head-2-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-Head-1-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-bodyInnerPiece-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-Head-7-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-Head-6-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-Head-5-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-Head-4-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-Head-3-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-Head-2-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-Head-1-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-bodyInnerPiece-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-body-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-headInnerPiece-5-ForHead-9-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-headInnerPiece-4-ForHead-8-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/2x/Model2-headInnerPiece-3-ForHead-7-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-Head-8-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-Head-9-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-headInnerPiece-1-ForHead-5-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-headInnerPiece-2-ForHead-6-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-headInnerPiece-3-ForHead-7-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-headInnerPiece-4-ForHead-8-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Chests/New Chests ( Update 1.8.5 )/png/Sliced/Model-2/4x/Model2-headInnerPiece-5-ForHead-9-4x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/Coin Animation.swf
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/1024x128.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2048x256.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/Coin.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 6.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 5.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 4.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 16.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 15.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 14.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 13.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 12.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 11.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 10.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 16.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 15.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 14.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 13.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 12.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 11.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 10.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/Coin.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 9.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 8.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/2x/image 7.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/128x128/Spike_down.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/128x128/Saw.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/128x128/Mace.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/128x128/Mac 128.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 9.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 8.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 7.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 6.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 5.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 4.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Coin Animation/png/4x/image 2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/eye 512.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/32x32/Spike_Up.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/32x32/Spike_Left&Right.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/32x32/Spike_Down.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/256x256/Saw.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/256x256/Pupil 256.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/256x256/Mace.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/256x256/Mac 256.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/256x256/Eyelid 256.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/256x256/eye 256.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/128x128/Spike_Up.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/128x128/Spike_Left&down.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.7 )/png/2048x1536/All/Hills_1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.7 )/png/2048x1536/All/Hills_2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.7 )/png/2048x1536/All/Mountain.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.7 )/png/2048x1536/Background/NewBackground2048x1536.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.9 )/png/1920x1080/all/Back.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.9 )/png/1920x1080/all/Front.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.9 )/png/1920x1080/all/Mid (2).png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.9 )/png/1920x1080/all/Mid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.9 )/png/1920x1080/background/NewBackgraound 1920x1080 (2).png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.9 )/png/1920x1080/background/NewBackgraound 1920x1080.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.9 )/png/2048x1024/all/Back.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.9 )/png/2048x1024/all/Front.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.9 )/png/2048x1024/all/Mid (2).png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/2x/2D Mac View/eye-1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/2x/2D Mac View/2D Mace View.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/2x/2D Mac View/2D Mace View Body.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/64x64/Spike_Up.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/64x64/Spike_Left&Right.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/64x64/Spike_Down.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/Saw.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/Pupil 512.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/Mace.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/Mac 512.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/512x512/Eyelid 512.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/2x/Square.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/2x/Mace.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/2x/Mace-Chain.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/2x/Circle.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/2x/Chain-3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/2x/Chain-2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/2x/Chain-1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/2x/2D Mac View/eye-5.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/2x/2D Mac View/eye-4.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/2x/2D Mac View/eye-3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/2x/2D Mac View/eye-2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/4x/Circle.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/4x/Chain-3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/4x/Chain-2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/4x/Chain-1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/4x/2D Mac View/eye-5.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/4x/2D Mac View/eye-4.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/4x/2D Mac View/eye-3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/4x/2D Mac View/eye-2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/4x/2D Mac View/eye-1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/4x/2D Mac View/2D Mace View.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/4x/2D Mac View/2D Mace View Body.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/4x/Square.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/2D Mace View/2D Mace View Body.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/2D Mace View/2D Mace View.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/2D Mace View/eye-1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/2D Mace View/eye-2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/2D Mace View/eye-3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/2D Mace View/eye-4.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/2D Mace View/eye-5.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Chain-1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/1x/Asset 10.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/1x/Asset 1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/512x512/Environment.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/2048x2048/Environment.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/1024x1024/Environment.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/Mace Preview.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Square.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Mace.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Mace-Chain.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Circle.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Chain-3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/8x/Chain-2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/1x/Asset 9.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/1x/Asset 8.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/1x/Asset 7.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/1x/Asset 6.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/1x/Asset 5.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/1x/Asset 4.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/1x/Asset 3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/1x/Asset 2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/1x/Asset 15.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/1x/Asset 14.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/1x/Asset 13.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/1x/Asset 12.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/1x/Asset 11.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/2x/Asset 6.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/2x/Asset 5.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/2x/Asset 4.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/2x/Asset 3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/2x/Asset 2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/2x/Asset 15.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/2x/Asset 14.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/2x/Asset 13.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/2x/Asset 12.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/2x/Asset 11.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/2x/Asset 10.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/2x/Asset 1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/4x/Asset 4.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/4x/Asset 3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/4x/Asset 2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/4x/Asset 15.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/4x/Asset 14.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/4x/Asset 13.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/4x/Asset 12.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/4x/Asset 11.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/4x/Asset 10.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/4x/Asset 1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/2x/Asset 9.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/2x/Asset 8.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/2x/Asset 7.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/2x/Winter Tree.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/2x/Tree.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/2x/Flower-3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/2x/Flower-2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/2x/Flower-1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/2x/Bush.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/2x/Autumn Tree.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/2x/Autumn Bush.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/4x/Asset 9.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/4x/Asset 8.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/4x/Asset 7.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/4x/Asset 6.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/Environments/png/All/4x/Asset 5.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/GUI ( Update 1.7 )/png/Iconic2048x2048.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/GUI ( Update 1.7 )/png/Iconic1024x1024.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/GUI ( Update 1.7 )/png/Empty512x512.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/GUI ( Update 1.7 )/png/Empty1024x1024.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/GUI ( Update 1.7 )/png/Elements512x256.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/GUI ( Update 1.7 )/png/Elements1024x512.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/8x/Winter Tree.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/8x/Tree.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/8x/Flower-3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/8x/Flower-2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/8x/Flower-1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/8x/Bush.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/8x/Autumn Tree.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/8x/Autumn Bush.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/4x/Winter Tree.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/4x/Tree.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/4x/Flower-3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/4x/Flower-2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/4x/Flower-1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/4x/Bush.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/4x/Autumn Tree.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Environments/New Details ( Update 1.9 )/4x/Autumn Bush.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/4x/Mace.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Enemies/New Enemy ( Update 1.9 )/4x/Mace-Chain.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.9 )/png/2048x1024/backgraound/NewBackgraound 2048x1024.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.9 )/png/2048x1024/all/Mid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/GrassJoinHillRight2&Left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/GrassJoinHillRight WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/GrassJoinHillLeft2&Right2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/GrassJoinHillLeft2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/GrassJoinHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/GrassJoinHillLeft&Right.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/HillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/HillRight2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/HillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/HillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/HillLeft2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/HillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/GrassJoinHillRight2&Left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/GrassJoinHillRight WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/GrassJoinHillLeft2&Right2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/GrassJoinHillLeft2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/GrassJoinHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/GrassJoinHillLeft&Right.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/128x128/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Readme.txt
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/GrassJoinHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/GrassJoinHillLeft&Right.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/HillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/HillRight2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/HillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/HillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/HillLeft2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/HillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/256x256/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/HillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/HillRight2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/HillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/HillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/HillLeft2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/HillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/GrassJoinHillRight2&Left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/GrassJoinHillRight WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/GrassJoinHillLeft2&Right2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Autumn ( Update 1.9 )/512x512/GrassJoinHillLeft2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/GrassJoindHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/GrassJoinHillLeft&Right.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/GrassJoinHillLeft2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/HillRight2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/HillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/HillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/HillLeft2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/HillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/GrassJoinHillRight2&left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/GrassJoinHillRight2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/GrassJoinHillLeft2&Right2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/GrassJoinHillRight2&left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/GrassJoinHillRight2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/GrassJoinHillLeft2&Right2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/GrassJoinHillLeft2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/GrassJoinHillLeft&Right.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/GrassJoindHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/128x128/HillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/GrassJoindHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/HillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/HillRight2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/HillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/HillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/HillLeft2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/HillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/256x256/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/HillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/HillLeft2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/HillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/GrassJoinHillRight2&left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/GrassJoinHillRight2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/GrassJoinHillLeft2&Right2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/GrassJoinHillLeft2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/GrassJoinHillLeft&Right.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassColumn.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/HillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/HillRight2 WithDropShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Winter ( Update 1.9 )/512x512/HillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassJoinHillLeft&Right.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassJoinHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassJoinHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassJoinHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassJoinHillRight2&Left2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassJoinHillRight2&Left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/128x128/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassJoinHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassJoinHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassJoinHillLeft&Right.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassColumn.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassColumn.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassJoinHillRight2&Left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassJoinHillRight2&Left2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/256x256/GrassJoinHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassJoinHillRight2&Left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassJoinHillRight2&Left2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassJoinHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassJoinHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassJoinHillLeft&Right.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassColumn.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Autumn/512x512/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillRight2&Left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillRight2&Left2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillRight&Left.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/128x128/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillRight2&Left2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillRight&Left.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassColumn.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassColumn.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/256x256/GrassJoinHillRight2&Left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassJoinHillRight2&Left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassJoinHillRight2&Left2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassJoinHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassJoinHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassJoinHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassJoinHillLeft&Right.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Spring/512x512/GrassHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassJoinHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassJoinHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassJoinHillLeft&Right.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassColumn.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassColumn.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassJoinHillRight2&Left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassJoinHillRight2&Left2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassJoinHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/128x128/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassJoinHillRight2&Left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassJoinHillRight2&Left2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassJoinHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassJoinHillRight&Left.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassJoinHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassJoinHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassColumn.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/256x256/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassJoinHillRight2&Left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassJoinHillRight2&Left2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassJoinHillRight2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassJoinHillRight&Left.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassJoinHillLeft2 DownShadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassJoinHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2D Tiles ( Update 1.9 )/Winter/512x512/GrassHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/1-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/10-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/11-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/12-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/13-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/14-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/15-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/16-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/2-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/3-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/4-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/5-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/6-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/7-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/8-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/128x128/9-1x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/256x256/1-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/256x256/10-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/256x256/11-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/256x256/12-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/256x256/13-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/256x256/14-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/256x256/15-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/256x256/16-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/256x256/2-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/256x256/3-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/256x256/4-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/256x256/5-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/256x256/6-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/256x256/7-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2D view ( Update 1.9 )/256x256/8-2x.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Dirt.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/column_up.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/column_down.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Column.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Asset 41.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Asset 40.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/Grass.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/DirtRightCorner.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/DirtRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/DirtLeftCorner.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/DirtLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/DirtDown.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassHillLeft2_Down Shadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassCliffRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassCliffMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassCliffLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassJoinHillLeft2_Down Shadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassJoinHillLeft2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassJoinHillLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassHillRight2_Down Shadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassJoinHillRight2_Down shadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassJoinHillRight2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassJoinHillRight2&Left2_Down Shadow.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassJoinHillRight2&Left2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassJoinHillRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassJoinHillRight&Left.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassSample_2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassRight.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassMid.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Tiles/2.5D Tiles/Spring/png/128x128/GrassLeft.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/Projetos/Enemies/Mouse/mouse1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/Projetos/Enemies/Mouse/mouse2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/Projetos/Enemies/Mouse/mouse3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/Projetos/Enemies/Mouse/mouse4.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/Projetos/Enemies/Mouse/mouse5.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/Projetos/Enemies/Mouse/mouse6.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.7 )/png/1920x1080/Background/NewBackground1920x1080.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.7 )/png/1920x1080/All/Mountain.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.7 )/png/1920x1080/All/Hills_2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/New Background ( Update 1.7 )/png/1920x1080/All/Hills_1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/Clouds/512x512/Cloud_2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/Clouds/512x512/Cloud_1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/Clouds/256x256/Cloud_2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/Clouds/256x256/Cloud_1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/Clouds/128x128/Cloud_2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/Clouds/128x128/Cloud_1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/2048x1536/Background/Background.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/2048x1536/All/Sky.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/2048x1536/All/Mountain_4.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/2048x1536/All/Mountain_3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/2048x1536/All/Mountain_2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/2048x1536/All/Mountain_1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/2048x1536/All/Hills_2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/2048x1536/All/Hills_1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/1920x1080/Background/Background.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/1920x1080/All/Sky.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/1920x1080/All/Mountain_4.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/1920x1080/All/Mountain_3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/1920x1080/All/Mountain_2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/1920x1080/All/Mountain_1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/1920x1080/All/Hills_2.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Backgrounds/Background/png/1920x1080/All/Hills_1.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 17.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 16.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 15.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 14.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 13.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 12.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 11.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 10.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 9.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 8.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 7.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 6.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 5.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 4.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 3.png
+Chico Bear Plataform/Projeto Chico Bear/Assets/BayatGames/Free Platform Game Assets/Water Animation/2.5D View/png/1x/image 2.png
